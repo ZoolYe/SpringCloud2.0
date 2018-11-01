@@ -10,5 +10,5 @@ spring:
   application:
     name: service-feign
 
-#´ò¿ªfeignÖĞµÄ¶ÏÂ·Æ÷
+#å¼€å¯feignç†”æ–­å™¨
 feign.hystrix.enabled: true

@@ -5,7 +5,7 @@ spring:
   application:
     name: service-hi
 
-#服务注册中心的地址
+#鏈嶅姟娉ㄥ唽涓績鐨勫湴鍧�
 eureka:
   client:
     serviceUrl:
