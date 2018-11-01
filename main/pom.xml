@@ -12,6 +12,11 @@
      -->
     <packaging>pom</packaging>
 
+    <modules>
+        <module>config-server</module>
+        <module>config-client</module>
+    </modules>
+
     <name>main</name>
     <description>Demo project for Spring Boot</description>
 
